@@ -15,9 +15,9 @@ import FormElement from './FormElement.js';
 // ReactDOM.render(<Prac1 />, document.getElementById('myDiv'));
 //ReactDOM.render(<PracProp />, document.getElementById('prop-types-div'));
 //ReactDOM.render(<ParentComponent />, document.getElementById('child-component'));
-//ReactDOM.render(<FormElement />, document.getElementById('app'));
-ReactDOM.render(<InstanceComponent />, document.getElementById('app2'));
-ReactDOM.render(<AnotherApp />, document.getElementById('app'));
+ReactDOM.render(<FormElement />, document.getElementById('app'));
+//ReactDOM.render(<InstanceComponent />, document.getElementById('app2'));
+//ReactDOM.render(<AnotherApp />, document.getElementById('app'));
 // ReactDOM.render(<PassComponentState />, document.getElementById('app'));
 // ReactDOM.render(<StateApp />, document.getElementById('app2'));
 
